@@ -1,0 +1,11 @@
+{
+	"SourceFiles": [
+		"D:\\TwoPlayerGame\\Plugins\\SmoothSync\\Source\\SmoothSyncPlugin\\SmoothSyncPlugin.Build.cs",
+		"D:\\TwoPlayerGame\\Intermediate\\Source\\TwoPlayerGame.Build.cs",
+		"D:\\TwoPlayerGame\\Intermediate\\Source\\TwoPlayerGame.Target.cs",
+		"D:\\TwoPlayerGame\\Intermediate\\Source\\TwoPlayerGameClient.Target.cs",
+		"D:\\TwoPlayerGame\\Intermediate\\Source\\TwoPlayerGameEditor.Target.cs",
+		"D:\\TwoPlayerGame\\Intermediate\\Source\\TwoPlayerGameServer.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
