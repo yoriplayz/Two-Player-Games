@@ -72,8 +72,6 @@ The goal is to create an experience where communication, coordination, and teamw
 Two-Player-Games/
 ├── Config/                  # Project configuration
 ├── Content/                 # Assets, levels and Blueprints
-├── Plugins/                 # Project plugins
-├── Source/                  # C++ source, if applicable
 ├── .gitattributes           # Git LFS tracking configuration
 ├── .gitignore               # Ignored generated files
 └── Two-Player-Games.uproject
