@@ -51,6 +51,20 @@ In Two Player Games, players are connected by a chain. Every jump, movement, and
 
 ---
 
+## Controls
+
+| Key | Action |
+|---|---|
+| WASD | Movement |
+| Space | Jump, Parkour Action, Ledge Hop while climbing |
+| Left Control | Slide while sprinting |
+| Left Shift | Sprint (Hold) |
+| Jump towards a wall while sprinting | Wallrun |
+| Q | Reset Character at Respawn Point |
+| Esc | Pause Menu |
+
+---
+
 ## 🛠️ Built With
 
 - **Unreal Engine 5** – Game engine
@@ -123,5 +137,6 @@ Developed independently as a game development project.
 ---
 
 *Made with Unreal Engine 5.6*
+
 
 
