@@ -1,0 +1,19 @@
+
+# Unreal Engine generated files
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# IDE files
+.vs/
+.idea/
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
