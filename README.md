@@ -77,6 +77,8 @@ Two-Player-Games/
 └── Two-Player-Games.uproject
 ```
 
+**All the copyrighted paid stuff that has been used in the project has been removed.**
+
 ---
 
 ## 🚀 Getting Started
