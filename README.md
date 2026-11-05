@@ -5,13 +5,14 @@ As multiplayer is a complex topic, I will first lay out a single-player demo sho
 2 players are chained together, and they would have to face the challenges and puzzles to win in this Co-op game.
 
 The game is only a single demo level that outlines all the features. It's in development, and bugs should be reported via issues.
+
 ---
 
-## 🎮 About the Game
+## About the Game
 
 The concept for the game is that 2 Players are chained together, so they need to utilise Parkour while also taking being tied to another player into account. I have prepared a single-player demo with which people may give me the issues regarding bugs, which are very common within video games and after perfecting the core system, I will go to multiplayer.
 
-## ✨ Planned Features
+## Planned Features
 
 - **Cooperative Gameplay:** Navigate challenging environments together.
 - **Chain Mechanics:** Stay connected and manage the limitations of the chain.
@@ -21,7 +22,7 @@ The concept for the game is that 2 Players are chained together, so they need to
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 <img width="1920" height="1080" alt="Windows Screenshot 2026 11 02 - 23 34 40 83" src="https://github.com/user-attachments/assets/2e9f7588-ddc3-42ed-9d7d-986dacb8b70b" />
 
@@ -35,7 +36,7 @@ The concept for the game is that 2 Players are chained together, so they need to
 
 ---
 
-## 🚧 Development Status
+## Development Status
 
 | Feature | Status |
 |---|---|
@@ -51,7 +52,7 @@ The concept for the game is that 2 Players are chained together, so they need to
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - **Unreal Engine 5** – Game development engine
 - **Blueprints** – Gameplay logic and systems
@@ -59,7 +60,7 @@ The concept for the game is that 2 Players are chained together, so they need to
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 Two-Player-Games/
@@ -71,11 +72,10 @@ Two-Player-Games/
 ```
 
 **All the copyrighted paid stuff that has been used in the project has been removed.**
-**The Parkour System is accessible [here](https://github.com/yoriplayz/ParkourSystemTut)**
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Requirements
 
@@ -112,7 +112,7 @@ Allow the engine to initialise the project and load its required assets and plug
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, suggestions, and feedback are welcome!
 
@@ -125,7 +125,7 @@ If you would like to contribute:
 
 ---
 
-## 🌙 YSWS – Crescent
+## YSWS – Crescent
 
 This project is being developed with **Crescent** as its target YSWS.
 
@@ -133,11 +133,19 @@ The repository is public and contains the Unreal Engine project files, allowing 
 
 ---
 
-## 📖 Development Journal
+## Development Journal
 
 The development process is documented on Lapse, including progress and recordings from the development journey.
 
 **[Follow the development journey on Lapse](https://lapse.hackclub.com/user/@svaniklamba13)**
+
+---
+
+##Credits regarding deleted Files
+
+- Parkour Animations - By QwertNikol [Fab](https://www.fab.com/listings/fdc9b1bb-c8f9-437c-b1ef-625fac9ad0cb)
+- The Parkour System - [Project files](https://github.com/yoriplayz/ParkourSystemTut), Tutorial by MakeARealOne
+- TTokyo Stylized Environment - [shua](https://www.fab.com/listings/9eec7a8a-b17c-4b89-a0d9-369a6ed5ac8c)
 
 ---
 
