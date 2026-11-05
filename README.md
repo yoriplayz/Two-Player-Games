@@ -1,22 +1,15 @@
 # Two Player Games
 
-**A cooperative parkour experience where teamwork is the only way forward.**
+As multiplayer is a complex topic, I will first lay out a single-player demo showcasing the game and also get playtesting so that people can report any bugs and help me polish the core before jumping into multiplayer.
 
-Two Player Games is an Unreal Engine project built around a simple but challenging concept: two players are physically connected by a chain and must work together to navigate obstacles, overcome challenges, and reach their destination.
+2 players are chained together, and they would have to face the challenges and puzzles to win in this Co-op game.
 
-The project explores cooperative movement, parkour mechanics, and physics-based gameplay, where every action can affect both players.
-
-> **Target YSWS:** Crescent
-
+The game is only a single demo level that outlines all the features. It's in development, and bugs should be reported via issues.
 ---
 
 ## 🎮 About the Game
 
-Imagine completing a difficult parkour course, except you aren't doing it alone — and you can't simply move wherever you want.
-
-In Two Player Games, players are connected by a chain. Their movements are linked, making coordination and timing essential. A mistake by one player can affect the other, turning ordinary platforming challenges into cooperative puzzles.
-
-The goal is to create an experience where communication, coordination, and teamwork matter just as much as movement skill.
+The concept for the game is that 2 Players are chained together, so they need to utilise Parkour while also taking being tied to another player into account. I have prepared a single-player demo with which people may give me the issues regarding bugs, which are very common within video games and after perfecting the core system, I will go to multiplayer.
 
 ## ✨ Planned Features
 
@@ -78,7 +71,7 @@ Two-Player-Games/
 ```
 
 **All the copyrighted paid stuff that has been used in the project has been removed.**
-**The Parkour System is accessed [here](https://github.com/yoriplayz/ParkourSystemTut)**
+**The Parkour System is accessible [here](https://github.com/yoriplayz/ParkourSystemTut)**
 
 ---
 
