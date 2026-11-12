@@ -110,26 +110,14 @@ Locate and open `Two-Player-Games.uproject` using Unreal Engine.
 
 Allow the engine to initialise the project and load its required assets and plugins.
 
----
-
-## Contributing
-
-Contributions, suggestions, and feedback are welcome!
-
-If you would like to contribute:
-
-1. Fork this repository.
-2. Create a new branch.
-3. Make your changes.
-4. Submit a pull request with a description of your improvements.
 
 ---
 
 ## YSWS – Crescent
 
-This project is being developed with **Crescent** as its target YSWS.
+This project is made for *Crescent*.
 
-The repository is public and contains the Unreal Engine project files, allowing others to explore the implementation, follow development, and contribute to the project.
+The repository is public and contains the Unreal Engine project files, allowing others to understand the code behind various mechanics
 
 ---
 
@@ -146,7 +134,7 @@ Hackatime and Wakatime aren't supported by UE5, so for these reasons, Lapse is u
 
 - Parkour Animations - By QwertNikol [Fab](https://www.fab.com/listings/fdc9b1bb-c8f9-437c-b1ef-625fac9ad0cb)
 - The Parkour System - [Project files](https://github.com/yoriplayz/ParkourSystemTut), Tutorial by MakeARealOne
-- TTokyo Stylized Environment - [shua](https://www.fab.com/listings/9eec7a8a-b17c-4b89-a0d9-369a6ed5ac8c)
+- Tokyo Stylized Environment - [shua](https://www.fab.com/listings/9eec7a8a-b17c-4b89-a0d9-369a6ed5ac8c)
 
 ---
 
