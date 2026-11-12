@@ -1,4 +1,5 @@
-# Two Player Games
+
+# Two Player Games - Singleplayer Demo
 
 As multiplayer is a complex topic, I will first lay out a single-player demo showcasing the game and also get playtesting so that people can report any bugs and help me polish the core before jumping into multiplayer.
 
@@ -6,22 +7,8 @@ As multiplayer is a complex topic, I will first lay out a single-player demo sho
 
 The game is only a single demo level that outlines all the features. It's in development, and bugs should be reported via issues.
 
----
-
-## About the Game
-
+## About The Game
 The concept for the game is that 2 Players are chained together, so they need to utilise Parkour while also taking being tied to another player into account. I have prepared a single-player demo with which people may give me the issues regarding bugs, which are very common within video games and after perfecting the core system, I will go to multiplayer.
-
-## Planned Features
-
-- **Cooperative Gameplay:** Navigate challenging environments together.
-- **Chain Mechanics:** Stay connected and manage the limitations of the chain.
-- **Parkour System:** Jump, climb, and traverse obstacles.
-- **Puzzle Challenges:** Use coordination to overcome environmental obstacles.
-- **Multiplayer:** Two-player cooperative gameplay is planned.
-
----
-
 ## Screenshots
 
 <img width="1920" height="1080" alt="Windows Screenshot 2026 11 02 - 23 34 40 83" src="https://github.com/user-attachments/assets/2e9f7588-ddc3-42ed-9d7d-986dacb8b70b" />
@@ -34,101 +21,42 @@ The concept for the game is that 2 Players are chained together, so they need to
 
 <img width="1920" height="1080" alt="Windows Screenshot 2026 11 02 - 23 36 33 67" src="https://github.com/user-attachments/assets/19f51d89-aa67-4631-98cd-6d58467e4923" />
 
----
+## Installation
 
-## Development Status
+- You can access my project through my [itch.io page](https://yoriplayz.itch.io/two-player-games-singleplayer-demo)
 
-| Feature | Status |
-|---|---|
-| Core movement | In development |
-| Parkour mechanics | In development |
-| Parkour System plugin | Implemented |
-| Chain mechanics | In development |
-| Single-player demo | Available |
-| Multiplayer | Planned |
-| Cooperative puzzles | Planned |
+- Download the ZIP folder and extract it
+  
+- Go to ``YOUREXTRACTEDFILELOCATION\Windows\TwoPlayerGame.exe`` and enjoy!
 
-*This project is actively being developed. Features and implementation details may change.*
 
----
+## Controls
 
-## Built With
+| Actions | Keybind |
+| --- | --- |
+| Movement | WASD |
+| Jump, Parkour Action, Ledge Hop(While Climbing)| Space |
+| Slide(While Sprinting) | Left Ctrl |
+| Sprint(Hold) | Left Shift |
+| Wallrun(While Sprinting) | Jump towards Wall |
+| Reset Character | Q |
+| Pause Menu | Esc |
 
-- **Unreal Engine 5** – Game development engine
-- **Blueprints** – Gameplay logic and systems
-- **Git & Git LFS** – Version control and large asset management
+## File Structure
 
----
 
-## Project Structure
-
-```text
+```
 Two-Player-Games/
-├── Config/                  # Project configuration
-├── Content/                 # Assets, levels and Blueprints
-├── .gitattributes           # Git LFS tracking configuration
-├── .gitignore               # Ignored generated files
+├── Config/                  
+├── Content/                
+├── .gitattributes           
+├── .gitignore               
 └── Two-Player-Games.uproject
 ```
 
 **All the copyrighted paid stuff that has been used in the project has been removed.**
 
----
-
-## Getting Started
-
-### Requirements
-
-- Unreal Engine version compatible with the project
-- Git
-- Git LFS
-
-### Installation
-
-**1. Clone the repository**
-
-```bash
-git clone https://github.com/yoriplayz/Two-Player-Games.git
-```
-
-**2. Navigate into the project directory**
-
-```bash
-cd Two-Player-Games
-```
-
-**3. Install Git LFS files**
-
-```bash
-git lfs install
-git lfs pull
-```
-
-**4. Open the project**
-
-Locate and open `Two-Player-Games.uproject` using Unreal Engine.
-
-Allow the engine to initialise the project and load its required assets and plugins.
-
-
----
-
-## YSWS – Crescent
-
-This project is made for *Crescent*.
-
-The repository is public and contains the Unreal Engine project files, allowing others to understand the code behind various mechanics
-
----
-
-## Development Journal
-
-The development process is documented on Lapse, including progress and recordings from the development journey.
-Hackatime and Wakatime aren't supported by UE5, so for these reasons, Lapse is used to record everything, including coding.
-
-**[Follow the development journey on Lapse](https://lapse.hackclub.com/user/@svaniklamba13)**
-
----
+## Acknowledgements
 
 ##Credits regarding deleted Files
 
@@ -136,6 +64,22 @@ Hackatime and Wakatime aren't supported by UE5, so for these reasons, Lapse is u
 - The Parkour System - [Project files](https://github.com/yoriplayz/ParkourSystemTut), Tutorial by MakeARealOne
 - Tokyo Stylized Environment - [shua](https://www.fab.com/listings/9eec7a8a-b17c-4b89-a0d9-369a6ed5ac8c)
 
----
+## Feedback
 
-**Made with Unreal Engine 5.6**
+Any feedback regarding bugs, which are very common in game development, can be issued in the Issues tab of the Repository.
+
+Thank You!
+## Appendix
+
+This project is made for *Crescent - A YSWS Hackclub*.
+
+Hackatime and Wakatime aren't supported by UE5, so for these reasons, Lapse is used to record everything, including coding.
+
+**[Follow the development journey on Lapse](https://lapse.hackclub.com/user/@svaniklamba13)**
+
+
+
+## Author
+
+Made by [@yoriplayz](https://www.github.com/yoriplayz) using *Unreal Engine 5.6* with the help of fellow hackmates!
+
