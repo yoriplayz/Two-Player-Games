@@ -136,6 +136,7 @@ The repository is public and contains the Unreal Engine project files, allowing 
 ## Development Journal
 
 The development process is documented on Lapse, including progress and recordings from the development journey.
+Hackatime and Wakatime aren't supported by UE5, so for these reasons, Lapse is used to record everything, including coding.
 
 **[Follow the development journey on Lapse](https://lapse.hackclub.com/user/@svaniklamba13)**
 
